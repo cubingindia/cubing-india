@@ -1,0 +1,11 @@
+# IDE stuff
+.idea
+
+# Node dependency stuff
+node_modules
+
+# Logs
+*.log
+
+# Development Credentials
+credentials
